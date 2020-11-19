@@ -1,0 +1,54 @@
+body{
+    background-color: white;
+}
+
+/*.blue-text{
+    color: blueviolet;
+}
+
+#navbar{
+    float:left;
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 100%;
+}
+
+.card{
+    float: left;
+    width: 25%;
+    margin: 10px;
+}*/
+
+.card-spacing{
+    margin-left: 5%;
+}
+
+.btn{
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-optical-sizing: 1;
+}
+
+.menu{
+    list-style-type: none;
+    color: white;
+}
+
+.menu ul{
+    font-size: 16px;
+}
+
+.menu li{
+    display: inline-block;
+    margin-left: 40px;
+    margin-right: 10px;
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+}
+
+.menu a:hover{
+    color: red;
+}
